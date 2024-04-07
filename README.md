@@ -64,9 +64,9 @@
 
 Welcome to Wanderlust Adventures, your ultimate travel destination.
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
+![Screenshot 1](https://drive.google.com/file/d/15VM69W71s8bZgyazTQt9rVPYSScG2IoX/view?usp=drive_link)
+![Screenshot 2](https://drive.google.com/file/d/1xjYbaO-vif2loelmWiTQDgKk9ZUIsxmD/view?usp=drive_link)
+![Screenshot 3](https://drive.google.com/file/d/1zI5xK1ity53zJiL3oehFEpr09DhvIVXx/view?usp=drive_link)
 
 
 </body>
