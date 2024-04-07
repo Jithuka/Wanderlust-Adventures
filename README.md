@@ -60,5 +60,14 @@
     <footer>
         <p>&copy; 2024 Wanderlust Adventures. All rights reserved.</p>
     </footer>
+    # Wanderlust Adventures Travel Blog
+
+Welcome to Wanderlust Adventures, your ultimate travel destination.
+
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
+
+
 </body>
 </html>
